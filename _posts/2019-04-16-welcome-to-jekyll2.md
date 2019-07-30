@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Welcome to MyJekyll!"
 description: this article explains something and gives a brief introduction.
 tags: welcome introduction
 ---
